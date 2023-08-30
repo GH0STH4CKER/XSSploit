@@ -3,6 +3,10 @@
 ## 📜 Introduction
 This Python script is designed to test websites for Cross-Site Scripting (XSS) vulnerabilities. It allows you to provide a target URL, detect input fields, and test various payloads to identify potential security weaknesses.
 
+## Disclaimer ⚠️
+
+**This script is provided for educational purposes only. Unauthorized use of this script for malicious intent is illegal and unethical. Be sure to adhere to ethical standards and legal regulations when using your programming skills.**
+
 ## 📋 Table of Contents
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
@@ -24,6 +28,7 @@ This Python script is designed to test websites for Cross-Site Scripting (XSS) v
 10. [Troubleshooting](#troubleshooting)
 11. [Contributing](#contributing)
 12. [License](#license)
+
 
 ## 🚀 Getting Started
 Before using the script, ensure you have the necessary prerequisites and dependencies.
