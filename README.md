@@ -49,6 +49,8 @@ To use the script, follow these steps:
 4. The script will analyze the target, identify input fields, and test the chosen payloads for XSS vulnerabilities.
 5. Results will be displayed on the console.
 
+![screenshot](https://github.com/GH0STH4CKER/XSSploit/assets/62290930/f43727cb-4689-4880-9729-1e6e02406ad6)
+
 ## 🧩 Script Explanation
 ### Global Variables
 - `lc`, `dc`, `lr`, `ly`: Color codes for console output.
