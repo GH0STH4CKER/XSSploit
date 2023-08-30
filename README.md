@@ -1,10 +1,9 @@
-```markdown
-#😈 XSS Vulnerability Testing Script Documentation
+# 😈 XSS Vulnerability Testing Script Documentation
 
-##📜 Introduction
+## 📜 Introduction
 This Python script is designed to test websites for Cross-Site Scripting (XSS) vulnerabilities. It allows you to provide a target URL, detect input fields, and test various payloads to identify potential security weaknesses.
 
-##📋 Table of Contents
+## 📋 Table of Contents
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
