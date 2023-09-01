@@ -94,6 +94,7 @@ This function tests for XSS vulnerabilities using a provided payload.
 ## 🤝 Contributing
 - If you'd like to contribute to the script's development, feel free to submit pull requests
 
-- GH0STH4CKER
+![author](https://img.shields.io/badge/Author-GH0STH4CKER-lime)
+<br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GH0STH4CKER.XSSploit)
 
